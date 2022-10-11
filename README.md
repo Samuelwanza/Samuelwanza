@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://Samuelwanza.io)
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://main--samuelwanza.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
